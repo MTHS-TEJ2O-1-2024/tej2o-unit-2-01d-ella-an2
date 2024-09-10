@@ -2,7 +2,7 @@
  *
  * Created by: Ella
  * Created on: Sep 2024
- * This program says Hello World
+ * This program says Hello Ella
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Ella!')
